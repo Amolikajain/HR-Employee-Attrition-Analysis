@@ -73,3 +73,14 @@ The main objectives of this project are to:
 **Amolika Jain**
 
 Data Analytics | Excel | SQL | Python | Power BI
+
+
+## 📸 Dashboard Preview
+
+### HR Attrition Dashboard
+
+![HR Attrition Dashboard](Screenshot%202026-10-06%20230255.png)
+
+### HR Analysis
+
+![HR Analysis](Screenshot%202026-10-06%20230305.png)
